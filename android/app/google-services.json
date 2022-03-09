@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85998506971",
+    "project_id": "jio-saavn-59968",
+    "storage_bucket": "jio-saavn-59968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85998506971:android:59b37eebf398980e604dfe",
+        "android_client_info": {
+          "package_name": "com.example.jio_saavn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85998506971-8384pclm3a79viqlabhq3p56nekrp60o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZ1C4_j6desougLKrnispkaYWRYuvAZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85998506971-8384pclm3a79viqlabhq3p56nekrp60o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
